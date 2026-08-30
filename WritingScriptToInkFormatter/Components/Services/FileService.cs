@@ -24,7 +24,7 @@ namespace WritingScriptToInkFormatter.Components.Services
         }
 
 
-        public async Task FileUplsoaded(InputFileChangeEventArgs e)
+        public async Task FileUploaded(InputFileChangeEventArgs e)
         {
             browserFiles = (List<IBrowserFile>)e.GetMultipleFiles();
         }
