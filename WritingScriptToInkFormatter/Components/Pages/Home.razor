@@ -1,0 +1,18 @@
+﻿@inject Components.Services.FileService fileHandler;
+@inject Components.Services.ILoggerService _logger;
+@page "/"
+
+<PageTitle>Script to Ink Formatter</PageTitle>
+
+
+
+<InputFile OnChange="fileHandler.FileUploaded" />
+
+@code{
+    protected override void OnInitialized()
+    {
+        _logger.LogInformation("Page initialized.");
+    }
+}
+
+

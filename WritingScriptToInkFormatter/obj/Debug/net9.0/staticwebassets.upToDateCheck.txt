@@ -1,0 +1,2 @@
+wwwroot\app.css
+C:\Users\User\Documents\CodeProjects\ScriptToInkFormatter\WritingScriptToInkFormatter\wwwroot\app.css
