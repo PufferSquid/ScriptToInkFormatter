@@ -1,0 +1,21 @@
+{
+  "characters": {
+    "mark": {
+      "displayName": "Mark",
+      "emotions": {
+        "default": "images/mark/neutral.png",
+        "neutral": "images/mark/neutral.png",
+        "sad": "images/mark/sad.png",
+        "angry": "images/mark/angry.png"
+      }
+    },
+    "strinkleding": {
+      "displayName": "Strinkleding",
+      "emotions": {
+        "default": "images/strinkleding/neutral.png",
+        "neutral": "images/strinkleding/neutral.png",
+        "happy": "images/strinkleding/happy.png"
+      }
+    }
+  }
+}

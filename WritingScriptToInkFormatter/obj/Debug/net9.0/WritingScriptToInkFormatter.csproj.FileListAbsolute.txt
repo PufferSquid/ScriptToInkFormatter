@@ -32,3 +32,5 @@ C:\Users\User\Documents\CodeProjects\ScriptToInkFormatter\WritingScriptToInkForm
 C:\Users\User\Documents\CodeProjects\ScriptToInkFormatter\WritingScriptToInkFormatter\obj\Debug\net9.0\WritingScriptToInkFormatter.pdb
 C:\Users\User\Documents\CodeProjects\ScriptToInkFormatter\WritingScriptToInkFormatter\obj\Debug\net9.0\WritingScriptToInkFormatter.genruntimeconfig.cache
 C:\Users\User\Documents\CodeProjects\ScriptToInkFormatter\WritingScriptToInkFormatter\obj\Debug\net9.0\ref\WritingScriptToInkFormatter.dll
+C:\Users\User\Documents\CodeProjects\ScriptToInkFormatter\WritingScriptToInkFormatter\bin\Debug\net9.0\Data\testCharacters.json
+C:\Users\User\Documents\CodeProjects\ScriptToInkFormatter\WritingScriptToInkFormatter\obj\Debug\net9.0\WritingScriptToInkFormatter.sourcelink.json

@@ -1,18 +1,51 @@
-﻿@inject Components.Services.FileService fileHandler;
-@inject Components.Services.ILoggerService _logger;
-@page "/"
+﻿@page "/"
+@inject Components.Services.ScriptParserService parser
+@inject Components.Services.CharacterDatabaseService characterDb
+@inject Components.Services.ILoggerService _logger
 
 <PageTitle>Script to Ink Formatter</PageTitle>
 
 
+<button @onclick="Convert">Convert</button>
 
-<InputFile OnChange="fileHandler.FileUploaded" />
+<div style ="display : flex; flex-direction : row; align-content: center; height: 100%">
+    <h3>Script Input</h3>
+<textarea @bind="scriptInput" rows="15" style="width:100%; height: 800px"></textarea>
 
-@code{
+    <h3>Ink Output</h3>
+<textarea readonly rows="15" style="width:100%; @(warnings.Count > 0 ? "border: 2px solid red;" : "")">@output</textarea>
+</div>
+
+@if (warnings.Count > 0)
+{
+    <div style="color: red;">
+        <h4>Warnings</h4>
+        <ul>
+            @foreach (var w in warnings)
+            {
+                <li>@w</li>
+            }
+        </ul>
+    </div>
+}
+
+
+
+@code {
+    private string scriptInput = "";
+    private string output = "";
+    private List<string> warnings = new();
+
     protected override void OnInitialized()
     {
         _logger.LogInformation("Page initialized.");
     }
+
+    private async Task Convert()
+    {
+        var db = await characterDb.LoadAsync();
+        var result = parser.Parse(scriptInput, db);
+        output = result.InkOutput;
+        warnings = result.Warnings;
+    }
 }
-
-

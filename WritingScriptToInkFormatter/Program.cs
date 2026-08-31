@@ -10,6 +10,8 @@ builder.Services.AddRazorComponents()
 
 builder.Services.AddScoped<ILoggerService, LoggerService>();
 builder.Services.AddScoped<FileService>();
+builder.Services.AddScoped<CharacterDatabaseService>();
+builder.Services.AddScoped<ScriptParserService>();
 
 var app = builder.Build();
 

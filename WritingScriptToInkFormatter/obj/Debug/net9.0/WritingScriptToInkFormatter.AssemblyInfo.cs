@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WritingScriptToInkFormatter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c2e2c179993fdc858ba4f730ee59e0cd8825b15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab0025c5390ed0e27552e95153febffcc9d09113")]
 [assembly: System.Reflection.AssemblyProductAttribute("WritingScriptToInkFormatter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WritingScriptToInkFormatter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

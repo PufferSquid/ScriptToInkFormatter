@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D89780CA-B6AD-4C30-A6C4-E658D602F3A1}|WritingScriptToInkFormatter.csproj|c:\\users\\user\\documents\\codeprojects\\scripttoinkformatter\\writingscripttoinkformatter\\components\\services\\scriptparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89780CA-B6AD-4C30-A6C4-E658D602F3A1}|WritingScriptToInkFormatter.csproj|solutionrelative:components\\services\\scriptparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89780CA-B6AD-4C30-A6C4-E658D602F3A1}|WritingScriptToInkFormatter.csproj|c:\\users\\user\\documents\\codeprojects\\scripttoinkformatter\\writingscripttoinkformatter\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D89780CA-B6AD-4C30-A6C4-E658D602F3A1}|WritingScriptToInkFormatter.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89780CA-B6AD-4C30-A6C4-E658D602F3A1}|WritingScriptToInkFormatter.csproj|c:\\users\\user\\documents\\codeprojects\\scripttoinkformatter\\writingscripttoinkformatter\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D89780CA-B6AD-4C30-A6C4-E658D602F3A1}|WritingScriptToInkFormatter.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89780CA-B6AD-4C30-A6C4-E658D602F3A1}|WritingScriptToInkFormatter.csproj|c:\\users\\user\\documents\\codeprojects\\scripttoinkformatter\\writingscripttoinkformatter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89780CA-B6AD-4C30-A6C4-E658D602F3A1}|WritingScriptToInkFormatter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89780CA-B6AD-4C30-A6C4-E658D602F3A1}|WritingScriptToInkFormatter.csproj|c:\\users\\user\\documents\\codeprojects\\scripttoinkformatter\\writingscripttoinkformatter\\components\\services\\characterdatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89780CA-B6AD-4C30-A6C4-E658D602F3A1}|WritingScriptToInkFormatter.csproj|solutionrelative:components\\services\\characterdatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D89780CA-B6AD-4C30-A6C4-E658D602F3A1}|WritingScriptToInkFormatter.csproj|c:\\users\\user\\documents\\codeprojects\\scripttoinkformatter\\writingscripttoinkformatter\\components\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D89780CA-B6AD-4C30-A6C4-E658D602F3A1}|WritingScriptToInkFormatter.csproj|solutionrelative:components\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +35,8 @@
       "RelativeMoniker": "D:0:0:{D89780CA-B6AD-4C30-A6C4-E658D602F3A1}|WritingScriptToInkFormatter.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D89780CA-B6AD-4C30-A6C4-E658D602F3A1}|WritingScriptToInkFormatter.csproj|c:\\users\\user\\documents\\codeprojects\\scripttoinkformatter\\writingscripttoinkformatter\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D89780CA-B6AD-4C30-A6C4-E658D602F3A1}|WritingScriptToInkFormatter.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D89780CA-B6AD-4C30-A6C4-E658D602F3A1}|WritingScriptToInkFormatter.csproj|c:\\users\\user\\documents\\codeprojects\\scripttoinkformatter\\writingscripttoinkformatter\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D89780CA-B6AD-4C30-A6C4-E658D602F3A1}|WritingScriptToInkFormatter.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D89780CA-B6AD-4C30-A6C4-E658D602F3A1}|WritingScriptToInkFormatter.csproj|c:\\users\\user\\documents\\codeprojects\\scripttoinkformatter\\writingscripttoinkformatter\\components\\services\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D89780CA-B6AD-4C30-A6C4-E658D602F3A1}|WritingScriptToInkFormatter.csproj|solutionrelative:components\\services\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D89780CA-B6AD-4C30-A6C4-E658D602F3A1}|WritingScriptToInkFormatter.csproj|c:\\users\\user\\documents\\codeprojects\\scripttoinkformatter\\writingscripttoinkformatter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D89780CA-B6AD-4C30-A6C4-E658D602F3A1}|WritingScriptToInkFormatter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "FileService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Components\\Services\\FileService.cs",
               "RelativeDocumentMoniker": "Components\\Services\\FileService.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Components\\Services\\FileService.cs",
               "RelativeToolTip": "Components\\Services\\FileService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-23T12:48:51.38Z",
               "IsPinned": true,
@@ -56,54 +64,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-23T17:57:24.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Components\\App.razor",
-              "RelativeDocumentMoniker": "Components\\App.razor",
-              "ToolTip": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Components\\App.razor",
-              "RelativeToolTip": "Components\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-23T13:02:41.836Z",
+              "DocumentIndex": 0,
+              "Title": "ScriptParserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Components\\Services\\ScriptParserService.cs",
+              "RelativeDocumentMoniker": "Components\\Services\\ScriptParserService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Components\\Services\\ScriptParserService.cs",
+              "RelativeToolTip": "Components\\Services\\ScriptParserService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T07:00:39.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-23T12:46:49.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "app-20260323.log",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Logs\\app-20260323.log",
-              "RelativeDocumentMoniker": "Logs\\app-20260323.log",
-              "ToolTip": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Logs\\app-20260323.log",
-              "RelativeToolTip": "Logs\\app-20260323.log",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-23T17:43:25.452Z",
+              "Title": "CharacterDatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Components\\Services\\CharacterDatabaseService.cs",
+              "RelativeDocumentMoniker": "Components\\Services\\CharacterDatabaseService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Components\\Services\\CharacterDatabaseService.cs",
+              "RelativeToolTip": "Components\\Services\\CharacterDatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T06:44:52.078Z",
               "EditorCaption": ""
             },
             {
@@ -116,7 +98,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-23T13:02:41.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T17:04:58.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-23T17:57:24.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-23T12:46:49.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app-20260323.log",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Logs\\app-20260323.log",
+              "RelativeDocumentMoniker": "Logs\\app-20260323.log",
+              "ToolTip": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Logs\\app-20260323.log",
+              "RelativeToolTip": "Logs\\app-20260323.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-23T17:43:25.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "LoggerService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Components\\Services\\LoggerService.cs",
               "RelativeDocumentMoniker": "Components\\Services\\LoggerService.cs",
@@ -124,21 +169,7 @@
               "RelativeToolTip": "Components\\Services\\LoggerService.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAA4wDAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T17:08:24.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\CodeProjects\\ScriptToInkFormatter\\WritingScriptToInkFormatter\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T17:04:58.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T17:08:24.204Z"
             }
           ]
         }
